@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class form {
 
-    public void formulario () {
+    public static void main (String[] args) {
         /**
          * Import class Scanner
          */
@@ -58,17 +58,6 @@ public class form {
         System.out.println("---------------------------------------------");
         System.out.println("---------------------------------------------");
 
-
-        //        String [] nomes = new String[2];
-        //
-        //        System.out.println("Qual o nome do Prof 1 : ");
-        //        nomes[0] = teclado.nextLine();
-        //
-        //        System.out.println("Qual o nome do Prof 2 : ");
-        //        nomes[1] = teclado.nextLine();
-        //
-        //        System.out.println("Olá Prof°s: " + nomes[0] + " e " + nomes[1] + " Sejam bem vindos");
-        //
     }
 }
 
